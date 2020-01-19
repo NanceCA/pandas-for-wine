@@ -1,4 +1,4 @@
-# using-pandas-to-evaluate-wine
+# Pandas and Python to Take a Closer Look at Wine Ratings
 using a python and pandas to take a closer look at wine ratings and sourcing 
 
 ## Why this exercise 
